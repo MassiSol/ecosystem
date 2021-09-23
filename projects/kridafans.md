@@ -6,6 +6,8 @@ logline: "Krida Fans is a next-generation fantasy sports and social platform bui
 cta: "https://krida.fans"
 logo: /img/krida-fans.svg
 category: app
+twitter: https://twitter.com/KridaFans
+discord: https://t.co/YWChyqOKP9?amp=1
 status: building
 ---
 
