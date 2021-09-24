@@ -6,7 +6,8 @@ logline: "Electron is a generalized cross chain messaging protocol that enables 
 cta: "https://electronlabs.org/"
 logo: /img/Electron-main_resized.png
 category: infra, spl
+telegram: "https://t.me/joinchat/XUknutKGjyhiZTA9"
 status: building
 ---
 
-Electron is a generalized cross chain messaging protocol that enables Solana Programs to connect with Smart Contracts on all other blockchains
+Electron is a generalized cross chain messaging protocol that enables Solana Programs to connect with Smart Contracts on all other blockchains.
